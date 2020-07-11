@@ -7,7 +7,7 @@ payload = {
     'q':'',
     'u':'',
     'm':'',
-    '&lang':'ru'}
+    'lang':'ru'}
 
 
 for city in cities:
