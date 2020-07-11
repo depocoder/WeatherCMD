@@ -1,6 +1,5 @@
 import requests
 cities = ['Лондон','Шереметьево','Череповец']
-payload = {"text":"python"}
 
 for city in cities:
     url = 'http://wttr.in/{}?nTqum&lang=ru'.format(city)
